@@ -1,0 +1,21 @@
+つくばエクスプレス時刻表
+http://www.mir.co.jp/route_map/tsukuba/timetable.html
+
+関東鉄道バス時刻表
+http://kantetsu.co.jp/img/bus/highway/tsukuba_tokyo/timetable_.pdf
+
+筑波大学循環バス
+https://www.tsukuba.ac.jp/students/pdf/h27_campusbus_jikokuhyou.pdf
+
+https://pdftables.comを使ってpdfの表をexcelに変換した
+
+herokuURL
+https://secret-depths-79509.herokuapp.com/
+
+
+herokuへのcommmitの仕方
+cd python-getting-started
+git add .
+git commit -m "test"
+git push heroku master
+
